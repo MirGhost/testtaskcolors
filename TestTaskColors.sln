@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskColors", "TestTaskColors\TestTaskColors.csproj", "{7AC8926F-A81F-41AB-B817-7014A4A53457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AC8926F-A81F-41AB-B817-7014A4A53457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC8926F-A81F-41AB-B817-7014A4A53457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC8926F-A81F-41AB-B817-7014A4A53457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC8926F-A81F-41AB-B817-7014A4A53457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54B7F26-24C7-4EBB-B3C0-777CF9CC418C}
+	EndGlobalSection
+EndGlobal
